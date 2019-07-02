@@ -1,0 +1,44 @@
+<html>
+<head>
+  <title>Firebase Login</title>
+  <link href="https://fonts.googleapis.com/css?family=Nunito:400,600,700" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div id="login_div" class="main-div">
+    <h3>Inicio de Sesion Duvago</h3>
+    <input type="email" placeholder="Email..." id="email_field" />
+    <input type="password" placeholder="Password..." id="password_field" />
+
+    <button onclick="login()">Entrar</button>
+  </div>
+
+  <div id="user_div" class="loggedin-div">
+    <h3>Bienvenido Usuario</h3>
+    <p id="user_para">Bienvenido </p>
+    <button onclick="logout()">Logout</button>
+    <a class="nav-link" href="hotel1.html">inicio <span class="sr-only"></a>
+  </div>
+
+  <div id="todo"></div>
+
+
+  <script src="https://www.gstatic.com/firebasejs/4.8.1/firebase.js"></script>
+  <script>
+    // cambiar apikey------------------------
+    var config = {
+      apiKey: "AIzaSyC_JPvzuZfja9PzFqI00_hyA6ehFtAjdMA",
+    authDomain: "epe4-a375f.firebaseapp.com",
+    databaseURL: "https://epe4-a375f.firebaseio.com",
+    projectId: "epe4-a375f",
+    storageBucket: "",
+    messagingSenderId: "110564782499",
+    appId: "1:110564782499:web:8fcec76e1f5c6576"
+    };
+    firebase.initializeApp(config);
+  </script>
+  <script src="index.js"></script>
+
+</body>
+</html>
