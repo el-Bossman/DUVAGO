@@ -1,6 +1,7 @@
 # DUVAGO
 EPEs DUVAGO
 
+:hotel: 
 
 DUVAGO es la version chilena del famoso sitio de hoteles destinado a un grupo mas pequeño
 
