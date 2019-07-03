@@ -1,7 +1,7 @@
 # DUVAGO
 EPEs DUVAGO
+![Logo](https://raw.githubusercontent.com/el-Bossman/DUVAGO/master/assets/logo.png?token=AJFZIHUBGFVQAMVJCJGDZWC5DT53W)
 
-https://raw.githubusercontent.com/el-Bossman/DUVAGO/master/assets/logo.png
 
 :hotel: 
 
