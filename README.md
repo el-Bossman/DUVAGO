@@ -1,6 +1,6 @@
 # DUVAGO
 EPEs DUVAGO
-https://firebasestorage.googleapis.com/v0/b/epe4-a375f.appspot.com/o/logo.png?alt=media&token=78864be3-694c-4f15-afba-8d00dd559622
+https://raw.githubusercontent.com/el-Bossman/DUVAGO/master/public/logo.png?token=AJFZIHQRS3PA6UM5MZTGM5C5DT4W4
 :hotel: 
 
 DUVAGO es la version chilena del famoso sitio de hoteles destinado a un grupo mas pequeño
